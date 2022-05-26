@@ -14,7 +14,7 @@ public class TugasAkhir {
         frame.setVisible(true);
         frame.setSize(930, 750);
         frame.setResizable(true);
-        frame.setLocation(850,350);
+        frame.setLocation(500,175);
     }
     public JPanel panel1;
     private JTextField textnamapelanggan;
@@ -162,7 +162,7 @@ public class TugasAkhir {
                     frame.setContentPane(new TampilanAkhir().panel3);
                     frame.setVisible(true);
                     frame.setSize(930, 750);
-                    frame.setLocation(850,350);
+                    frame.setLocation(500,175);
                 }
 
 
