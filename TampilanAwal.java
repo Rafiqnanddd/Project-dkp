@@ -19,6 +19,7 @@ public class TampilanAwal {
                     frame.setVisible(true);
                     frame.setSize(930, 750);
                     frame.setLocation(850,350);
+                    frame.setLocation(500,175);
 
 
 
@@ -40,6 +41,7 @@ public class TampilanAwal {
         frame.setSize(330, 250);
         frame.setResizable(true);
         frame.setLocation(850,350);
+        frame.setLocation(795,390);
 
     }
     private JButton btnmasuk;
